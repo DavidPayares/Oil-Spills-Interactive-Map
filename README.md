@@ -6,5 +6,5 @@
 
 Also, some infographics for summarising the data and highlighting some insights.
 
-![Infographics 2](infographics/DensityMap.jpg){:height="50%" width="50%"}
-![Infographics 1](infographics/AffectedCounties.jpg){:height="50%" width="50%"}
+<img src="infographics/DensityMap.jpg" width="50%" height="50%">
+<img src="infographics/AffectedCounties.jpg" width="50%" height="50%">
