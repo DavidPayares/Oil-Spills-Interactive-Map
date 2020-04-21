@@ -6,5 +6,4 @@
 
 Also, some infographics for summarising the data and highlighting some insights.
 
-<img src="infographics/DensityMap.jpg" width="50%" height="50%">
-<img src="infographics/AffectedCounties.jpg" width="50%" height="50%">
+<img src="infographics/DensityMap.jpg" width="50%" height="50%"> <img src="infographics/AffectedCounties.jpg" width="50%" height="50%">
