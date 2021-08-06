@@ -4,7 +4,7 @@
 
 ![Oil Spills Web App](map.png)
 
-Also, some infographics for summarising the data and highlighting some insights.
+Also, some inphographics summarizing the data and highlighting some insights.
 
 <p align="center">
 <img src="infographics/DensityMap.jpg" width="40%" height="40%"> 
